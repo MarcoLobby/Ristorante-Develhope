@@ -4,3 +4,5 @@ Ristorante "Da Marco"
 Menu di Pesce
 
 Bevande : Acqua, Vino Bianco, Coca Cola, Gin tonic
+
+Secondi Piatti: Pantofole piccanti
